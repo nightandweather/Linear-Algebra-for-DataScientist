@@ -16,13 +16,6 @@ To get started with the implementations and exercises, clone this repository to 
 git clone https://github.com/your_username/linear-algebra-for-data-science.git
 ```
 
-Feel free to explore the folders and files containing Python scripts, Jupyter notebooks, and resources related to the course material.
-
-## Collaborator
-
-- **Instructor:** MS. 이강훈
-- **Email:** [dlrkdgns1324@gmail.com](mailto:dlrkdgns1324@gmail.com)
-
 ## Contact
 
 If you have any questions or suggestions regarding the course material, feel free to reach out to us at [dlrkdgns1324@gmail.com](mailto:dlrkdgns1324@gmail.com).
